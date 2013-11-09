@@ -1,0 +1,31 @@
+best approach to OOP is to write out what you are trying to do, extract the nouns in the program, and adding behaviors and states to each of those objects, and then letting the objects interact with each other
+
+things to be concerned with
+1) Abstractions - allows you to think about your program from the notion of objects and the interaction between those objects. to facilitate the actions you need to be aware of the current state and  behavior of the objects.
+
+-look at requirements
+-look at words in task
+-extract nouns
+-for example...
+
+Deck
+Player
+Dealer
+Hand
+Card
+
+
+
+2) Encapsulation - 
+
+
+
+
+
+
+
+instance variables are for state, they keep/hold the objects state, and you can access the with instance methods
+
+
+
+
