@@ -24,7 +24,7 @@ Card
 
 
 
-instance variables are for state, they keep/hold the objects state, and you can access the with instance methods
+instance variables are for state, they keep/hold the objects state, and you can access them with instance methods 
 
 
 
